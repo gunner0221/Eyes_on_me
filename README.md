@@ -9,4 +9,4 @@
 >
 
 
-.[엠넷 마이너 갤러리로 이동합니다.](https://gall.dcinside.com/mgallery/board/lists?id=mnet_k)
+[엠넷 마이너 갤러리로 이동합니다.](https://gall.dcinside.com/mgallery/board/lists?id=mnet_k)
