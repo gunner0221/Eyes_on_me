@@ -1,7 +1,7 @@
-# Eyes_on_me
+# 아 토트넘 경기 결과 좀 볼까?
 
-### 하나가 되는 순간 모두가 주목해!
-###### IZ*ONE PERMANENT
+### 당연히 이겼겠지 
+###### 아....?
 
 > This is a first blockqute.
 >	> This is a second blockqute.
@@ -14,4 +14,4 @@
 [아이즈원 종----신](https://youtu.be/ZHzcTGek_lE)
 
 ![](https://github.com/gunner0221/Eyes_on_me/blob/main/%EC%9C%A8.jpg?raw=true)
-[![옌](https://user-images.githubusercontent.com/70357494/110884395-64eb3a00-8328-11eb-8f1e-4111268500ce.jpg)](https://youtu.be/bs_4U67wQzk)
+[![황트넘](https://ww.namu.la/s/c5c9087e565e89957ffe439e2834a4f593716cd83b8b526b4c6c96df13b0cac921bb3e740c8d0451337b5aec8abe76b211677b4c921f3f8eae1d83dbe1333732ab9a039dcf7895162599dae85dbcf84381864971fd0b3ca1564b078dec583255)](https://youtu.be/bs_4U67wQzk)
